@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21f94e1c-665a-4d2d-8bbb-cf65ae08843e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/little_app_for_drom/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b7L7RBP0mmNS1FIxiO8rhoXrkO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f94e1c-665a-4d2d-8bbb-cf65ae08843e" name="Default Changelist" comment="" />
+      <created>1587978022182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587978022182</updated>
+      <workItem from="1587978040663" duration="444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
