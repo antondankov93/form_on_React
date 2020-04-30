@@ -2,29 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21f94e1c-665a-4d2d-8bbb-cf65ae08843e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_app_for_drom/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/little_app_for_drom/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/little_app_for_drom/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/little_app_for_drom/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/little_app_for_drom/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/little_app_for_drom/src/node_modules/components/MainLogo.js" beforeDir="false" afterPath="$PROJECT_DIR$/little_app_for_drom/src/node_modules/components/MainLogo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/little_app_for_drom/src/node_modules/components/form/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/little_app_for_drom/src/node_modules/components/form/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/little_app_for_drom/src/node_modules/components/form/Form.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/little_app_for_drom/src/node_modules/components/form/Form.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/little_app_for_drom/src/node_modules/pages/MainForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/little_app_for_drom/src/node_modules/pages/MainForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/little_app_for_drom/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/little_app_for_drom/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,8 +39,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/little_app_for_drom/src/node_modules/components" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aadankov\Desktop\liitle_app_for_DROM\little_app_for_drom\src\node_modules\components" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587978022182</updated>
       <workItem from="1587978040663" duration="444000" />
+      <workItem from="1588228741337" duration="5917000" />
     </task>
     <servers />
   </component>
@@ -63,5 +69,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588230250458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588230250458" />
   </component>
 </project>
