@@ -5,9 +5,11 @@ import {MainRouter} from 'MainRouter';
 
 export const App = () => {
   return (
-      <div className="App">
-            <Header/>
-            <MainRouter/>
+      <div className='mainWrapper'>
+          <div className="App">
+              <Header/>
+              <MainRouter/>
+          </div>
       </div>
   );
 }
